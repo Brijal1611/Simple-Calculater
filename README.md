@@ -1,2 +1,2 @@
-# Simple-Calculater
-A Simple calculater build With HTML,CSS and Javscript
+# Simple-Calculator
+A Simple calculator build With HTML,CSS and Javscript
